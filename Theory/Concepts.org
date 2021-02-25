@@ -9,7 +9,13 @@ The classical / mechanistic model of perception.
 ** Sensing
 ** Meaning
 ** Perception
-** Understanding 
+** Understanding
+* Media Theoretic and Information Theory Approach
+** Information, Message
+** Sender - Receiver
+** Signal, Encoding
+** Medium
+
 * Semeiotics and Linguistics: Sign and Meaning
 ** Ferdinand de Saussure
 ** Charles Saunders Peirce
@@ -20,20 +26,23 @@ The classical / mechanistic model of perception.
 *** Heterotopies
 *** Genius Loci
 
-* Media Theoretic and Information Theory Approach
-** Information, Message
-** Sender - Receiver
-** Signal, Encoding
-** Medium
-
 * Ludics and Ludology, Game Theory Approach
 
 ** Huizinga 
-* BioSemoiticConstructivist approach to Perception
+* BioSemiotic / Constructivist approach to Perception
+
+Autopoesis
+
 * Complexity Theory, Emergence, Complex Dynamic Systems, Chaos, Fractals
 * Phenomenological approach to Perception
+
+Husserl.  Merleau-Ponty
+
 * Embodied vs Dualist approaches to Cognition
 * Cultural Embodiment
+
+Astrida 
+
 * Representation and the Virtual
 ** Aby Warburg
 ** Agamben (Releasing the Image: Nymphs)

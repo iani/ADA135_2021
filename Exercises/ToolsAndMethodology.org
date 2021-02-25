@@ -1,0 +1,8 @@
+* EMACS
+* LINUX
+* Raspberry Pi
+* Github
+* Org Mode
+* LaTeX
+* JavaScript
+* OSC
