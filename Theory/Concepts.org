@@ -1,0 +1,41 @@
+* Sound
+** Definition
+*** Physical definition of sound
+*** Psychological / Perceptual definition of sound
+* Senses - Perception - Meaning - Understanding
+
+The classical / mechanistic model of perception.
+
+** Sensing
+** Meaning
+** Perception
+** Understanding 
+* Semeiotics and Linguistics: Sign and Meaning
+** Ferdinand de Saussure
+** Charles Saunders Peirce
+** In Music: Eero Tarasti, Vladimir Karbusicky
+** Semeiotics of (Human, Cultural) Spaces
+*** Signifying Nothing (Brian Roth), the classic work of art and the Museum
+*** The semeiotics of Japanese Tea Ceremony Rooms
+*** Heterotopies
+*** Genius Loci
+
+* Media Theoretic and Information Theory Approach
+** Information, Message
+** Sender - Receiver
+** Signal, Encoding
+** Medium
+
+* Ludics and Ludology, Game Theory Approach
+
+** Huizinga 
+* BioSemoiticConstructivist approach to Perception
+* Complexity Theory, Emergence, Complex Dynamic Systems, Chaos, Fractals
+* Phenomenological approach to Perception
+* Embodied vs Dualist approaches to Cognition
+* Cultural Embodiment
+* Representation and the Virtual
+** Aby Warburg
+** Agamben (Releasing the Image: Nymphs)
+
+
