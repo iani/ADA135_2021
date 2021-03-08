@@ -6,6 +6,8 @@
 - Manjul Bhargava lecture intro with Tabla https://www.youtube.com/watch?v=xpp_625ZUOU
 - (More details:) Manjul Bhargava lecture on maths and rhythms and sanskrit in indian school https://www.youtube.com/watch?v=siFBqH-LaQQ Hemachandra numbers / equation. Basic example of recurrence. (Origin of Fibonacci numbers.)
 
+PS: Art and Math, Error correcting code in Indian Poetry (Manjul Bhargava interview) https://youtu.be/KxB-5wTtRk8?t=737
+
 * Bols, Refrains, Grounds
 
 ** Prelude: Meister Eckhardt: Grundt. 
