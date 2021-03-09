@@ -16,6 +16,9 @@ Furthermore:
 - https://cbkwgl.wordpress.com/2012/02/08/the-basics-of-telugu-poetry/ (This is the error-correcting word that Bhargava and Richards talk about in the interview)
 -  https://www.outlookindia.com/blog/story/maths-nobel-from-sanskrit-poems-and-rubiks-cube/3351 Article about the topic of Bhargava's PhD thesis and its relation to Hemachandra / Sanskrit poetry
 
+And the rules of Metric patterns (Chandas) in Indian poetry:
+https://en.wikipedia.org/wiki/Chandas_(poetry)
+
 * Bols, Refrains, Grounds
 
 ** Prelude: Meister Eckhardt: Grundt. 
