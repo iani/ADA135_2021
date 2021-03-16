@@ -203,6 +203,11 @@ NYC.  Zach Liebermann, Amit Pitaru
 
 https://sfpc.io/
 
+* Collaborative, networked live coding
+
+- Troop https://toplap.org/troop-a-collaborative-editor-for-live-coding/ (Φαίνεται να είναι εγκαταστήσιμο στα περισσότερα λειτουργικά. Δουλεύει σε βάση Python).
+- Extramuros (Eldad Tsabary) https://www.youtube.com/watch?v=ECEwTJWKEGc (Δεν είναι γνωστό κατά πόσο είναι εγκαταστήσιμο).
+
 * Other audio / music software of interest
   :PROPERTIES:
   :DATE:     <2021-02-24 Wed 10:56>
