@@ -15,7 +15,7 @@ https://xkcd.com/378/ nuff said
 - https://www.emacswiki.org/emacs/EmacsAndXEmacs
 - https://www.emacswiki.org/emacs/EmacsImplementations
 
-** Atom
+** _Atom_
 
 https://atom.io/
 
@@ -35,7 +35,7 @@ https://nodejs.org/en/
    :PROPERTIES:
    :DATE:     <2021-02-24 Wed 10:52>
    :END:
-*** SuperCollider
+*** _SuperCollider_
 
 - Home page :: https://supercollider.github.io/
 - Forum :: https://scsynth.org/
@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=CXrkq7u69vU
 
  https://tidalcycles.org/Welcome
 
-**** fox dot
+**** _fox dot_
 
  https://foxdot.org/
 
