@@ -1,0 +1,12 @@
+
+* Fox Dot demos and performances
+
+- Melodic jam with FoxDot sequencing a MIDI device : https://www.youtube.com/watch?v=SLMoovsMH04
+- Noodling around with FoxDot and SuperCollider : https://www.youtube.com/watch?v=CXrkq7u69vU
+
+* Benoit and the Mandelbrots sc livecoding @ TED
+  :PROPERTIES:
+  :DATE:     <2021-02-18 Thu 18:02>
+  :END:
+
+https://www.youtube.com/watch?v=Ix2b_qFYfAA
