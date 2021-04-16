@@ -1,0 +1,75 @@
+
+* Παράδειγμα ονόματος αρχείου εργασίας
+
+/V_Kapetanaki_ErgasiaExaminouAUD420_210530.md/
+
+*V_Kapetanaki_ErgasiaExaminouAUD420_210530.pdf*
+
+* Σημειώσεις - Κανόνες
+
+** Όνομα αρχείου και τύπος (κατάληξη)
+
+ Το όνομα του αρχείου περιέχει *μόνο*:
+
+ Alphanumeric characters + Underscore '_' (κάτω παύλα).
+
+ Alphanumeric characters are: 
+
+ a-z, A-Z, 0-9.
+
+ Στο τέλος του ονόματος προσθέτουμε *μια* μόνο κατάληξη 
+ που είναι ο τύπος (document type). Χωρίζεται με τελεία. Πχ:
+
+ V_Kapetanaki_ErgasiaExaminouAUD420_210530.pdf
+
+ Εδώ ο τύπος είναι 'pdf'. 
+
+Το όνομα του αρχείου πρέπει να δηλώνει το σκοπό, την ομάδα εργασίας (πχ. μαθημα) που ανήκει, και το όνομα του συγγραφέα.
+
+** Ημερομηνία    
+
+Την ημερομηνία την γράφουμε "military style":
+
+ΥΥΜΜDD = 210402
+210402 σημαίνει έτος 2021, μήνας 04 (Απρίλιος), ημέρα 02. 
+
+* Το ερευνητικό ερώτημα, IMRAD structure
+  :PROPERTIES:
+  :DATE:     <2021-04-16 Fri 08:52>
+  :END:
+
+From: https://www.editage.com/insights/in-which-section-of-the-paper-should-the-research-question-be-included
+
+#+begin_quote
+
+Q: In which section of the paper should the research question be included?
+Detailed Question -
+
+I have understood that the "Research Question" is a very important issue, and I have prepared my statement. But I don`t know in which section of paper have I to present it. May you please tell me in which section of paper, do I have to write my research question statement?
+
+Asked on 26 Dec, 2017
+
+Answer Follow this Question
+
+1 Answer to this question
+Answer:
+
+Typically, manuscripts are divided into the Introduction, Methods, Results, and Discussion sections. This is referred to as the IMRAD structure. The research question, the objective or hypothesis of the study, helps to set up context for what you have researched and why you chose to study this particular topic. Therefore, it is included in the Introduction of the manuscript. When you write the Introduction, you should first set the background and give a review of the existing literature. This is usually followed by the research question. Thus, typically, the research question is included at the end of the Introduction section.
+#+end_quote
+
+* Recommended online advice on thesis writing
+
+** purdue owl (online writing laboratory)
+
+- https://owl.purdue.edu/owl/purdue_owl.html
+
+Sections to read:
+
+** editage
+
+- https://www.editage.com/
+
+Sections to read:
+- https://www.editage.com/insights/what-is-the-best-way-of-stating-the-background-of-a-study
+
+https://www.editage.com/insights/tips-for-writing-the-perfect-imrad-manuscript
