@@ -70,6 +70,6 @@ Sections to read:
 - https://www.editage.com/
 
 Sections to read:
-- https://www.editage.com/insights/what-is-the-best-way-of-stating-the-background-of-a-study
 
-https://www.editage.com/insights/tips-for-writing-the-perfect-imrad-manuscript
+- !!! *https://www.editage.com/insights/tips-for-writing-the-perfect-imrad-manuscript*
+- https://www.editage.com/insights/what-is-the-best-way-of-stating-the-background-of-a-study
