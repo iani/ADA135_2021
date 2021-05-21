@@ -1,17 +1,20 @@
 
-* Bell's Theorem experiment run by Marissa Giustina in Vienna
+* Bell's Theorem tests (Marissa Giustina, David Kaiser)
   :PROPERTIES:
   :DATE:     <2021-05-21 Fri 08:54>
   :END:
 
-Marissa Giustina: Significant loophole-free test of Bell’s theorem with entangled photons: https://www.youtube.com/watch?v=tgoWM4Jcl-s
+- Marissa Giustina: Significant loophole-free test of Bell’s theorem with entangled photons: https://www.youtube.com/watch?v=tgoWM4Jcl-s
 
-** Background: What is local realism?
+- Alternative Bell test using Quasars (Cosmic Bell test) See further info at the end of the video. https://www.youtube.com/watch?v=yMB8ixAQ74M
+ 
+** Background: What is local realism and quantum entanglement
    :PROPERTIES:
    :DATE:     <2021-05-21 Fri 08:57>
    :END:
 
-- http://live.iop-pp01.agh.sleek.net/2017/05/25/local-realism-is-dead-long%E2%80%AFlive-local-realism/
+- https://www.youtube.com/watch?v=5_0o2fJhtSc Understanding Quantum Entanglement - with Philip Ball 
+ http://live.iop-pp01.agh.sleek.net/2017/05/25/local-realism-is-dead-long%E2%80%AFlive-local-realism/
 - https://www.nist.gov/blogs/taking-measure/local-realism-bells-inequality-and-t-shirts-entangled-tale
 
 * Kizuna AI - irreverent humour, very surrealistic games
