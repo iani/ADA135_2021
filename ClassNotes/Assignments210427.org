@@ -1,11 +1,11 @@
 
-| Μερκούρη    | https://github.com/IoannaMazi/Final-Project | Λαβύρινθος στη Μυθολογία, Λογοτεχνία και τα Παιχνίδια |                                                   |
-| Παπαφράγγου |                                             | ""                                                    |                                                   |
-| Ροδάκου     |                                             | ""                                                    |                                                   |
+| Μερκούρη    |                                             | Λαβύρινθος στη Μυθολογία, Λογοτεχνία και τα Παιχνίδια |https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS#readme|
+| Παπαφράγγου |                                             | ""                                                    |https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS#readme|
+| Ροδάκου     |                                             | ""                                                    |https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS#readme|
 | Βελέντζα    |                                             | Ηχοτοπίο με Max MSP                                   | https://github.com/umacat/Interactive-Soundscapes |
-| Μάζη        |                                             |                                                       |                                                   |
-| Κλεόπα      |                                             |                                                       |                                                   |
-| Καμιλάκη    |                                             |                                                       |                                                   |
+| Μάζη        |https://github.com/IoannaMazi/Final-Project  |                                                       |                                                   |
+| Κλεόπα      |https://github.com/IoannaMazi/Final-Project  |                                                       |                                                   |
+| Καμιλάκη    |https://github.com/IoannaMazi/Final-Project  |                                                       |                                                   |
 |-------------+---------------------------------------------+-------------------------------------------------------+---------------------------------------------------|
 
 * 27 Apr 2021 22:05 E. Merkouri, K. Papafrangou, A. Rodakou
