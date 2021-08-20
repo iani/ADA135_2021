@@ -1,0 +1,127 @@
+#+TITLE: Grades
+
+* STRT 1. 	ADAM STERGIOS ADAM STERGIOS : 8
+Α.Μ.: ADA2020002
+S_Adam_ErgasiaExaminouADA135_210628 ΣΥΝΘΕΤΟΝΤΑΣ ΤΟ ΧΡΟΝΟ ΚΑΙ ΤΟ ΧΩΡΟ ΜΕΣΑ ΑΠΟ ΤΗΝ ΑΡΜΟΝΙΑ ΤΩΝ ΑΡΙΘΜΩΝ. Η ΠΕΡΙΠΤΩΣΗ ΤΟΥ ΙΑΝΝΗ ΞΕΝΑΚΗ.
+
+https://github.com/AdamStergios/S_Adam_ErgasiaExaminouADA135_210628
+	04-07-2021 11:51:11
+
+* STRT 2. 	GKARGKALA SOFIA GKARGKALA SOFIA : 8
+Α.Μ.: ADA2020003
+
+https://github.com/SofiaGkargkala/S_Gkargkala_ErgasiaExaminouADA135_YKB6_210617
+
+01-07-2021 17:54:41
+
+* STRT 3. 	KALAMAKIDOU KYRIAKI KALAMAKIDOU KYRIAKI : 7
+Α.Μ.: ADA2020004
+
+https://github.com/Kamalakidou-Kokota/Project_for_Walt_Disney
+
+	06-07-2021 21:21:15
+
+* TODO 4. 	KAMILAKI AIKATERINI KAMILAKI AIKATERINI : 8.5
+Α.Μ.: ADA2020006
+
+https://github.com/katekam/ionio-2021
+
+	01-07-2021 13:54:32
+
+* 5. 	KAPETANIOU CHRISTINA KAPETANIOU CHRISTINA : 9.5
+Α.Μ.: ADA2020007
+
+https://github.com/kape-gris/Simunation--
+
+	11-07-2021 23:45:45
+
+* 6. 	KLEOPA ELEANNA-ARIADNI KLEOPA ELEANNA-ARIADNI : 8.2
+Α.Μ.: ADA2020008
+Ηχητικά Δίπολα- Τελική Εργασία Εξαμήνου Ελεάννας Κλεόπα σε συνεργασία με Κατερίνα Καμηλάκη και Ιωάννα Μάζη για το μάθημα Διαδραστικός Ηχητικός Σχεδιασμός
+
+
+	01-07-2021 15:10:08
+
+* 7. 	KOKOTA CHRYSOULA KOKOTA CHRYSOULA : 7
+Α.Μ.: ADA2020009
+
+https://github.com/Kamalakidou-Kokota
+
+	06-07-2021 21:21:15
+
+* 8. 	KONSTANTINIDIS RAFAIL KONSTANTINIDIS RAFAIL : 9.5
+Α.Μ.: ADA2020011
+
+https://github.com/Rafailkon/HDS
+
+	28-06-2021 16:13:03
+
+* 9. 	MAZI IOANNA AFRODITI MAZI IOANNA AFRODITI 9.0
+Α.Μ.: ADA2020012
+
+Τελική Εργασία ΠΜΣ - Διαδραστικός Ηχητικός Σχεδιασμός (β' εξάμηνο 2021) "Ηχητικά Δίπολα - Καταγραφή, ανάλυση και ερμηνεία θεωρητικών και πρακτικών προσεγγίσεων της επίδρασης της μουσικής και του ήχου στον άνθρωπο." Ιωάννα Αφροδίτη Μάζη Αικατερίνη Καμηλάκη Ελεάννα Αριάδνη Κλεόπα
+
+https://github.com/katekam/ionio-2021
+
+	01-07-2021 16:49:18
+
+* 10. 	MERKOURI ELENI MARIA MERKOURI ELENI MARIA
+Α.Μ.: ADA2020013
+Ο λαβύρινθος και το παιχνίδι (Μερκούρη Ελένη Μαρία)
+
+https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS?fbclid=IwAR2XlB_loNcBrM2XUN3qA9dev-qhtFCm6Iru-ks4wZhl3DmQK7JFoBMFlIM
+
+	29-06-2021 09:02:03
+
+* 11. 	PAPAFRAGKOU KYRIAKI PAPAFRAGKOU KYRIAKI : 9.8
+Α.Μ.: ADA2020016
+Κύριε Ζάννο σας επισυνάπτω το link όπου έχουμε ανεβάσει την εργασία μας, στο ομαδικό repository στο GitHub. Είμαι μαζί με την Ελένη - Μαρία Μερκούρη και την Ανδριάνα Ροδάκου. Όπως μας είχατε συμβουλέψει, στο τέλος κάθε μέρους αναγράφουμε σε παρένθεση το όνομα της κάθε μίας μας, ανάλογα με το ποιο κομμάτι έχουμε γράψει.
+
+https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS?fbclid=IwAR2XlB_loNcBrM2XUN3qA9dev-qhtFCm6Iru-ks4wZhl3DmQK7JFoBMFlIM
+
+
+	28-06-2021 23:13:42
+
+* 12. 	REVI IOANNA REVI IOANNA : 9.0
+Α.Μ.: ADA2020019
+
+https://github.com/ioannarevi/-----/blob/main/%CE%A1%CE%AD%CE%B2%CE%B7%20%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B1%20-%20%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1README.md
+
+	11-07-2021 20:32:09
+
+* 13. 	RODAKOU ANDRIANA RODAKOU ANDRIANA : 9.8
+Καλησπέρα σας, Σας παραθέτω το link. Με εκτίμηση, Ανδριάνα Ροδάκου
+
+https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS
+
+	11-07-2021 20:32:09
+
+* 13. 	RODAKOU ANDRIANA RODAKOU ANDRIANA : 9.8
+Καλησπέρα σας, Σας παραθέτω το link. Με εκτίμηση, Ανδριάνα Ροδάκου
+
+https://github.com/ANDRIANARODAKOU/DIADRASTIKOS_HXHTIKOS_SXEDIASMOS?fbclid=IwAR2XlB_loNcBrM2XUN3qA9dev-qhtFCm6Iru-ks4wZhl3DmQK7JFoBMFlIM
+	29-06-2021 23:29:55
+
+* 14. 	ROUPAS IOANNIS ROUPAS IOANNIS : 7.5
+Α.Μ.: ADA2020021
+Η μίμηση του ανθρώπου με την φωνή του μέλλοντος Vocaloid Ρούπας Γιάννης
+
+https://github.com/Giannis-Rou/Vocaloid/blob/main/README.md
+
+	01-07-2021 18:23:31
+
+* 15. 	STAMATI ELEVTHERIA STAMATI ELEVTHERIA : 7.5
+Α.Μ.: ADA2017005
+https://github.com/eleftheriastamati/eleftheriastamati
+
+
+	09-07-2021 10:53:22
+
+* 16. 	VELENTZA AIKATERINI VELENTZA AIKATERINI : 9.0
+Το παραπάνω link εμπεριέχει το αρχείο .md με το θεωρητικό μέρος της τελικής εργασίας. Επισυνάπτεται επίσης ο κώδικας του περιβάλλοντος Max/Msp, που αφορά το πρακτικό μέρος της εργασίας (Interactive Soundscape Recordings).
+
+https://github.com/umacat/-
+
+https://drive.google.com/file/d/1OSnvHkRYxl-QC6K1ylcz5DCrQjZM5NmT/view
+	11-07-2021 13:56:09
+
